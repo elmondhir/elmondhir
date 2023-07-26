@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Entity resolution, Knowledge graphs, etc.
+- 🌱 I’m currently learning: Graph Representation Learning, Graph Convolutional Networks (GCNs), etc 
 - 📫 How to reach me: mohamed_elmondhir.chaalal@g.enp.edu.dz
 
 dsdsds
