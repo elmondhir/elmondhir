@@ -9,7 +9,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
 ![Spark](https://img.shields.io/badge/-Spark-green?logo=apache-Spark)
 
-sdsds
 <!--ss
 **elmondhir/elmondhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
