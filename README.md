@@ -11,4 +11,5 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
 ![Spark](https://img.shields.io/badge/-Spark-green?logo=apache-Spark)
+![Hugging_Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm.svg)
  
