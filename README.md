@@ -6,7 +6,7 @@
 
 
 #### Stack
-<img src="https://img.shields.io/badge/-Python-yellow?logo=Python" alt="Python" />
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
