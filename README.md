@@ -8,7 +8,7 @@
 #### Stack
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R)
-![Java](https://lh3.googleusercontent.com/drive-viewer/AKGpihaa8WGxtR0Xzk_e1i9Dqe-kgQeFPgsN0cTlNEHcVVoglWvg7rCNtRokQVQICqzQ0vcKt84LKR9GMM5aW8HLUK0Wd3k8=s2560)
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYjFYSYyjpRfd8JQaXBNPnqK3RB7DbHtv1lUR8StxpmKi6JJJDFK5uQMI9cD5ctsBzoCQTEweapk_Uy3EGJW0Jnvjn0mw=s2560" alt="Java" height="20">
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
 ![AWS](https://lh3.googleusercontent.com/drive-viewer/AKGpiha-fMaMdVWaoFjkjEsG6a3C1bO8_8LFqirSCthUgdWTOJsIR1T4OMLz1h7eWKfIZTZTEldv92J89O5j2csIKq5F3dBGMg=s2560)
