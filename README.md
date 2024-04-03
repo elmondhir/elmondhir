@@ -5,7 +5,7 @@
 - 📫 How to reach me: mondhrich@gmail.com
 
 
-#### Stack
+### Tech Stack
 
 #### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
