@@ -10,6 +10,7 @@
 #### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R)
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYjFYSYyjpRfd8JQaXBNPnqK3RB7DbHtv1lUR8StxpmKi6JJJDFK5uQMI9cD5ctsBzoCQTEweapk_Uy3EGJW0Jnvjn0mw=s2560" alt="Java" height="20">
 
 #### Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
