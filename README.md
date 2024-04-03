@@ -10,11 +10,12 @@
 #### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R)
-<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYjFYSYyjpRfd8JQaXBNPnqK3RB7DbHtv1lUR8StxpmKi6JJJDFK5uQMI9cD5ctsBzoCQTEweapk_Uy3EGJW0Jnvjn0mw=s2560" alt="Java" height="20">
 
-#### Deep Learning
+#### Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbC4iNEVodl01iQY9qp9OoPSk93tsaAhBjlhVX7lD-bClkqHMSrQ9H2ujlJ_E85A2-55pcdC_dR7qzFqv__2uayQmg4BA=s1600-v0" alt="langchain" height="20">
+
 
 #### Miscellaneous:
 ![Spark](https://img.shields.io/badge/-Spark-green?logo=apache-Spark)
