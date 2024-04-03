@@ -15,7 +15,7 @@
 #### Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
-<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbC4iNEVodl01iQY9qp9OoPSk93tsaAhBjlhVX7lD-bClkqHMSrQ9H2ujlJ_E85A2-55pcdC_dR7qzFqv__2uayQmg4BA=s1600-v0" alt="langchain" height="20">
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbQfrJjihZOMK8cCAHJdiBcNSskPVkWhs5xCWEi_HLYIVQbXBs0umjrt5m2TDJgYalxR-i7H_uQrB5e8VU1BBAspOTOSw=s1600-v0" alt="langchain" height="20.3">
 
 
 #### Miscellaneous:
