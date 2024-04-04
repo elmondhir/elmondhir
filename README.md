@@ -13,7 +13,7 @@
 <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYjFYSYyjpRfd8JQaXBNPnqK3RB7DbHtv1lUR8StxpmKi6JJJDFK5uQMI9cD5ctsBzoCQTEweapk_Uy3EGJW0Jnvjn0mw=s2560" alt="Java" height="20">
 
 #### Database Management (DBMS)
-<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKdFRCldJXBIoGDWDVcK3jML8uWxiXpbNDFMOUAqzfCg_b4zrNy70AsdHNFz2e99B_3qkk6SKlxQFNkdLwCiBX9HbfKiF5ww=s1600-v0" alt="postgresql" height="20"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbWcN-8m6Keg_6zayBtq4k0WwVl0L959IdcT7evNuIvrepzL2JnVv-k0lTB94wkj86IqJml_wKF1isM809znTTk4Fi-hFS5qvA=s1600-v0" alt="neo4j" height="20">
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKdFRCldJXBIoGDWDVcK3jML8uWxiXpbNDFMOUAqzfCg_b4zrNy70AsdHNFz2e99B_3qkk6SKlxQFNkdLwCiBX9HbfKiF5ww=s1600-v0" alt="postgresql" height="20"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaiP-yfmGgzzmcAkDenhrCSI5BgolL6AicKAA5S9IER42tqOifkc5kTgvgqDeummJ_QTZYM2qtQVTddAts65Y52jggxqcXxmrE=s1600-rw-v1" alt="mongodb" height="20"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbWcN-8m6Keg_6zayBtq4k0WwVl0L959IdcT7evNuIvrepzL2JnVv-k0lTB94wkj86IqJml_wKF1isM809znTTk4Fi-hFS5qvA=s1600-v0" alt="neo4j" height="20">
 
 
 
