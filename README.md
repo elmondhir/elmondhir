@@ -23,9 +23,11 @@
 <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbQfrJjihZOMK8cCAHJdiBcNSskPVkWhs5xCWEi_HLYIVQbXBs0umjrt5m2TDJgYalxR-i7H_uQrB5e8VU1BBAspOTOSw=s1600-v0" alt="langchain" height="20.3">
 
 
+
+
 #### Miscellaneous:
 ![Spark](https://img.shields.io/badge/-Spark-green?logo=apache-Spark)
-![AWS](https://lh3.googleusercontent.com/drive-viewer/AKGpiha-fMaMdVWaoFjkjEsG6a3C1bO8_8LFqirSCthUgdWTOJsIR1T4OMLz1h7eWKfIZTZTEldv92J89O5j2csIKq5F3dBGMg=s2560)
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbAPV-WBawSg7Sc8N9kwkyrmuL3xezkcI0ePI7i67bMTUwdu1ll9sw-Im4Cbp1ft3FWosBTAtSL2g_XtyyMJlOVCgNWtYXdxw=s2560" alt="aws" height="20">
 [![Hugging](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Mondhirch)
 [![Docker](https://lh3.googleusercontent.com/drive-viewer/AKGpihbBtLKaHXkWuIivpPx-GUznGqipfEBUyNCEsLKQ5P6CsDxvAh2nFaVZuBjn3G-gYfwhDmBm0efPnJWQOZMKt393S2vhaQ=s2560)](https://hub.docker.com/u/mondhirch2)
 
