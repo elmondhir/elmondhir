@@ -10,9 +10,9 @@
 #### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R)
-<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYjFYSYyjpRfd8JQaXBNPnqK3RB7DbHtv1lUR8StxpmKi6JJJDFK5uQMI9cD5ctsBzoCQTEweapk_Uy3EGJW0Jnvjn0mw=s2560" alt="Java" height="20">
 
 #### Database Management (DBMS)
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKdFRCldJXBIoGDWDVcK3jML8uWxiXpbNDFMOUAqzfCg_b4zrNy70AsdHNFz2e99B_3qkk6SKlxQFNkdLwCiBX9HbfKiF5ww=s1600-v0" alt="postgresql" height="20">
 
 #### Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
