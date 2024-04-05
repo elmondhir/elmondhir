@@ -42,10 +42,16 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 ## 🙌 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elmondhir-chaalal/" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40"/>
   </a>
+   
+<a href="mailto:mondhirch@gmail.com" target="_blank">
+  <img align="center" alt="Email" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="40"/>
+</a>
 </p>
 
+
 <p align="center">
-  Let's make something innovative together! Feel free to reach out for collaborations or discussions in Data & Artificial Intelligence!
+  Let's make something innovative together! Feel free to reach out for collaborations or discussions in Data & Artificial Intelligence! <br>
+  <a href="mailto:mondhirch@gmail.com" target="_blank">mondhirch@gmail.com</a>
 </p>
