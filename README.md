@@ -21,6 +21,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)
 <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbQfrJjihZOMK8cCAHJdiBcNSskPVkWhs5xCWEi_HLYIVQbXBs0umjrt5m2TDJgYalxR-i7H_uQrB5e8VU1BBAspOTOSw=s1600-v0" alt="langchain" height="20.3">
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYaHq9QT0E3nFw5gZC_rvpnSsMeNsRLHt4MQrbgNwr7ChvwrXaYWm9tT4ElKHmB8Etg8zWWe5u9bF2BPLrhQTpKAG7ddD1f8g=s2560" alt="wandb" height="20">
 
 
 
