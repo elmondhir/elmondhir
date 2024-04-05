@@ -1,11 +1,17 @@
 ### Hi there, My name is Mohamed CHAALAL 👋
+I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on my journey through the fascinating world of data.
 
-- 🔭 I’m currently working on Entity resolution, Knowledge graphs, etc.
-- 🌱 I’m currently learning: Graph Representation Learning, Graph Convolutional Networks (GCNs), etc 
-- 📫 How to reach me: mondhrich@gmail.com
+## 🎓 Education
+- **Masters in Data Science and Artificial Intelligence**, Ecole Nationale Polytechnique D'alger
+- **Masters in Machine Learning for Data Science**, Université Paris Cité
+
+## 🔭 I’m currently working on
+- Developing intelligent agents powered by language models and tools like Langchain for task execution.
+- Fine-tuning and prompting approaches for models code based models like Codellama to improve performance and adaptability.
+- Investigating conditional diffusion models for controlled generation of high-fidelity images and videos.
 
 
-### Tech Stack
+## 🛠️ Tech Stack
 
 #### Programming languages:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](https://www.python.org/)
@@ -18,16 +24,11 @@
 <a href="https://neo4j.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbWcN-8m6Keg_6zayBtq4k0WwVl0L959IdcT7evNuIvrepzL2JnVv-k0lTB94wkj86IqJml_wKF1isM809znTTk4Fi-hFS5qvA=s1600-v0" alt="Neo4j" height="20"></a>
 
 
-
-
-
 #### Deep Learning & GenAI
 [![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)](https://www.tensorflow.org/)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYaHq9QT0E3nFw5gZC_rvpnSsMeNsRLHt4MQrbgNwr7ChvwrXaYWm9tT4ElKHmB8Etg8zWWe5u9bF2BPLrhQTpKAG7ddD1f8g=s2560" alt="wandb" height="20">](https://wandb.ai/)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbQfrJjihZOMK8cCAHJdiBcNSskPVkWhs5xCWEi_HLYIVQbXBs0umjrt5m2TDJgYalxR-i7H_uQrB5e8VU1BBAspOTOSw=s1600-v0" alt="langchain" height="20.3">](https://langchain.com/)
-
-
 
 
 #### Miscellaneous:
@@ -37,3 +38,14 @@
 [![Docker](https://lh3.googleusercontent.com/drive-viewer/AKGpihbBtLKaHXkWuIivpPx-GUznGqipfEBUyNCEsLKQ5P6CsDxvAh2nFaVZuBjn3G-gYfwhDmBm0efPnJWQOZMKt393S2vhaQ=s2560)](https://hub.docker.com/u/mondhirch2)
 
 
+
+## 🙌 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-elmondhir-chaalal/" target="_blank">
+    <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  Let's make something innovative together! Feel free to reach out for collaborations or discussions in Data & Artificial Intelligence!
+</p>
