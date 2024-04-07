@@ -7,9 +7,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 ## 🔭 I’m currently working on
 - Developing intelligent agents powered by language models and tools like Langchain for task execution.
-- Fine-tuning and prompting approaches for models code based models like Codellama to improve performance and adaptability.
-- Investigating conditional diffusion models for controlled generation of high-fidelity images and videos.
-
+- Fine-tuning and prompting approaches for code based models like Codellama to improve performance and adaptability to specific tasks.
 
 ## 🛠️ Tech Stack
 
