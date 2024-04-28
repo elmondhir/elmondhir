@@ -2,7 +2,7 @@
 I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on my journey through the fascinating world of data.
 
 ## 🎓 Education
-- **Masters in Data Science and Artificial Intelligence**, Ecole Nationale Polytechnique D'alger
+- **Masters in Data Science and Artificial Intelligence**, Ecole Nationale Polytechnique d'Alger (ENP)
 - **Masters in Machine Learning for Data Science**, Université Paris Cité
 
 ## 🔭 I’m currently working on
@@ -14,7 +14,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 #### Programming languages:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](https://www.python.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?logo=R)](https://www.r-project.org/)
-<a href="https://www.java.com/"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYjFYSYyjpRfd8JQaXBNPnqK3RB7DbHtv1lUR8StxpmKi6JJJDFK5uQMI9cD5ctsBzoCQTEweapk_Uy3EGJW0Jnvjn0mw=s2560" alt="Java" height="20"></a>
+<a href="https://www.java.com/"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZ2DiF4ubkW1zt0sCDqK4OCdFQJnOLAK21SKRpEy0lhdvrrnMPgHX1wkb1I7QrJ31Mbgk7Qwd92mHYi61_3yfP6Di1GSNKHB5c=s2560" alt="Java" height="20"></a>
 
 #### Database Management (DBMS)
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKdFRCldJXBIoGDWDVcK3jML8uWxiXpbNDFMOUAqzfCg_b4zrNy70AsdHNFz2e99B_3qkk6SKlxQFNkdLwCiBX9HbfKiF5ww=s1600-v0" alt="PostgreSQL" height="20"></a>
