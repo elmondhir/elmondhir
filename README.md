@@ -17,23 +17,23 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 <a href="https://www.java.com/"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZ2DiF4ubkW1zt0sCDqK4OCdFQJnOLAK21SKRpEy0lhdvrrnMPgHX1wkb1I7QrJ31Mbgk7Qwd92mHYi61_3yfP6Di1GSNKHB5c=s2560" alt="Java" height="20"></a>
 
 #### Database Management (DBMS)
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKdFRCldJXBIoGDWDVcK3jML8uWxiXpbNDFMOUAqzfCg_b4zrNy70AsdHNFz2e99B_3qkk6SKlxQFNkdLwCiBX9HbfKiF5ww=s1600-v0" alt="PostgreSQL" height="20"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaiP-yfmGgzzmcAkDenhrCSI5BgolL6AicKAA5S9IER42tqOifkc5kTgvgqDeummJ_QTZYM2qtQVTddAts65Y52jggxqcXxmrE=s1600-rw-v1" alt="MongoDB" height="20"></a>
-<a href="https://neo4j.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbWcN-8m6Keg_6zayBtq4k0WwVl0L959IdcT7evNuIvrepzL2JnVv-k0lTB94wkj86IqJml_wKF1isM809znTTk4Fi-hFS5qvA=s1600-v0" alt="Neo4j" height="20"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihatIcINpRb604bZoE95o-H2H7pUApivDRwLQaEfSeWiuyA2DyYRqhJwOBw-ERg4Rwuu17zQF6_vd2ckzcPJSucw6VELnRSp_w=s1600-rw-v1" alt="PostgreSQL" height="20"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbIEsA_ckcg1_vZ7uvV3JkWSZ1yjma8QxtdRcvM72_RxmLYm0AfbHQpwXhyMwTPEtaBxErFbigi7o81a2_GacK37IoBU9VZGtc=s1600-rw-v1" alt="MongoDB" height="20"></a>
+<a href="https://neo4j.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZkog1EoKul57GWFUzM-3TskVyh-KCd0VhAEgAYGKg17virVSLd4Hj-yGJt7QsnLygjQVGPgma2IVYAR7NxQc44dSnNn1bk7A0=s1600-rw-v1" alt="Neo4j" height="20"></a>
 
 
 #### Deep Learning & GenAI
 [![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)](https://www.tensorflow.org/)
-[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYaHq9QT0E3nFw5gZC_rvpnSsMeNsRLHt4MQrbgNwr7ChvwrXaYWm9tT4ElKHmB8Etg8zWWe5u9bF2BPLrhQTpKAG7ddD1f8g=s2560" alt="wandb" height="20">](https://wandb.ai/)
-[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbQfrJjihZOMK8cCAHJdiBcNSskPVkWhs5xCWEi_HLYIVQbXBs0umjrt5m2TDJgYalxR-i7H_uQrB5e8VU1BBAspOTOSw=s1600-v0" alt="langchain" height="20.3">](https://langchain.com/)
+[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZKVbkqbOSb6oH6zWIaSsjTHBTUCplwgDgTL_U90WDWgVwLw4VUI9IXk0PiFM8yZxpVxHIOpjEhKi3p4wK2oqFtd9RAOOL_eg=s2560" alt="wandb" height="20">](https://wandb.ai/)
+[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb4ajtYAg5K9ZqefLM05zisrtucSaB3Iaa2bDM-nGPnS2QkZiYVib3R8AFpeAkyxewxn3QIcI4plljwpp4mph2R2Qf1WMFtYaA=s1600-rw-v1" height="20.3">](https://langchain.com/)
 [![Hugging](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Mondhirch)
 
 
 #### Miscellaneous:
 [![Spark](https://img.shields.io/badge/-Spark-green?logo=apache-Spark)](https://spark.apache.org/)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZ7E0_w-SUSU-vElNTS-vIkIqkxKw49C0S3-OLOmnOKuqp85yMF0rK8FMVpGc5MC1S_3ArR9hrqKVkiZF2Yr5HfKXS8-8Rg4jw=s2560" alt="tableau" height="20">](https://public.tableau.com/app/profile/mondhirch/vizzes)
-[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbAPV-WBawSg7Sc8N9kwkyrmuL3xezkcI0ePI7i67bMTUwdu1ll9sw-Im4Cbp1ft3FWosBTAtSL2g_XtyyMJlOVCgNWtYXdxw=s2560" alt="aws" height="20">](https://aws.amazon.com/)
+[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYsToiIFjHeq5ievTSwHWmLMmlP6lGTnC9uK-5Xdkvhglslb9ShnR9RKxN3_VbNMhie8PnaeRtwgDbkOMRoOofHTyeB638f6A=s2560" alt="aws" height="20">](https://aws.amazon.com/)
 [![Docker](https://lh3.googleusercontent.com/drive-viewer/AKGpihYgsYr3dEQDky7DSrAZJ3j045u5f9ahfjMT1ZCD_D3iXXJLo9evA6Vm6g-KdetKnuLXkIQBfTulL7lecqTNI_eAMfJOhat_hqo=s2560)](https://hub.docker.com/u/mondhirch2)
 
 
