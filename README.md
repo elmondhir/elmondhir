@@ -32,7 +32,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 #### Miscellaneous:
 [![Spark](https://img.shields.io/badge/-Spark-green?logo=apache-Spark)](https://spark.apache.org/)
-[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZ7E0_w-SUSU-vElNTS-vIkIqkxKw49C0S3-OLOmnOKuqp85yMF0rK8FMVpGc5MC1S_3ArR9hrqKVkiZF2Yr5HfKXS8-8Rg4jw=s2560" alt="tableau" height="20">](https://public.tableau.com/app/profile/mondhirch/vizzes)
+[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYaIQvq1QLuXygp1lBhLlY6AONNc1jmeydxuHlptvsR16pUdLdio_GbytTUL91IKRazVQTSO_ysvZ_I6d8GNajw_xuzI_NecOY=s2560" alt="tableau" height="20">](https://public.tableau.com/app/profile/mondhirch/vizzes)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYsToiIFjHeq5ievTSwHWmLMmlP6lGTnC9uK-5Xdkvhglslb9ShnR9RKxN3_VbNMhie8PnaeRtwgDbkOMRoOofHTyeB638f6A=s2560" alt="aws" height="20">](https://aws.amazon.com/)
 [![Docker](https://lh3.googleusercontent.com/drive-viewer/AKGpihYgsYr3dEQDky7DSrAZJ3j045u5f9ahfjMT1ZCD_D3iXXJLo9evA6Vm6g-KdetKnuLXkIQBfTulL7lecqTNI_eAMfJOhat_hqo=s2560)](https://hub.docker.com/u/mondhirch2)
 
