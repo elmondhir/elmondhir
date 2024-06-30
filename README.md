@@ -18,7 +18,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 #### Database Management (DBMS)
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaOxG2IAqUGFq7Up52Yw1xSVO_1l-Q0zoVrF18jywmonaLK0yltTSYhO_HlxRvXErSHu6xYCsbPkzVSkP-x1Ib0GTr2XPqiSg=s1600-rw-v1" alt="PostgreSQL" height="20"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbIEsA_ckcg1_vZ7uvV3JkWSZ1yjma8QxtdRcvM72_RxmLYm0AfbHQpwXhyMwTPEtaBxErFbigi7o81a2_GacK37IoBU9VZGtc=s1600-rw-v1" alt="MongoDB" height="20"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbwh9VW6anVPoCL8svqvsbjcKimgn42BADCB8aJWHnjrzRvOzZjP49KRMdnqFGx_HxYHQeBClx-XXr61nWSrqR18FxE-_qkLkY=s1600-rw-v1" alt="MongoDB" height="20"></a>
 <a href="https://neo4j.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZkog1EoKul57GWFUzM-3TskVyh-KCd0VhAEgAYGKg17virVSLd4Hj-yGJt7QsnLygjQVGPgma2IVYAR7NxQc44dSnNn1bk7A0=s1600-rw-v1" alt="Neo4j" height="20"></a>
 
 
