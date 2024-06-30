@@ -14,7 +14,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 #### Programming languages:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](https://www.python.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?logo=R)](https://www.r-project.org/)
-<a href="https://www.java.com/"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZ2DiF4ubkW1zt0sCDqK4OCdFQJnOLAK21SKRpEy0lhdvrrnMPgHX1wkb1I7QrJ31Mbgk7Qwd92mHYi61_3yfP6Di1GSNKHB5c=s2560" alt="Java" height="20"></a>
+<a href="https://www.java.com/"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYdL_LglzNBHJ3y6H_Cz0W-wS_VH62HXD7p-8tc7EIztrPDCx7QNAALWvPWvZcQJkDFc6GrYwLLcsIm9YJ7JIJdTC6a8UQyedI=s2560" alt="Java" height="20"></a>
 
 #### Database Management (DBMS)
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaOxG2IAqUGFq7Up52Yw1xSVO_1l-Q0zoVrF18jywmonaLK0yltTSYhO_HlxRvXErSHu6xYCsbPkzVSkP-x1Ib0GTr2XPqiSg=s1600-rw-v1" alt="PostgreSQL" height="20"></a>
