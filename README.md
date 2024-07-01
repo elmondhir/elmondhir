@@ -25,7 +25,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 #### Deep Learning & GenAI
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?logo=TensorFlow)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)](https://pytorch.org/)
-[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZKVbkqbOSb6oH6zWIaSsjTHBTUCplwgDgTL_U90WDWgVwLw4VUI9IXk0PiFM8yZxpVxHIOpjEhKi3p4wK2oqFtd9RAOOL_eg=s2560" alt="wandb" height="20">](https://wandb.ai/)
+[<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbpYsoEX2qfLGHkrlUxD8vpbszvv8sbV3ZPSVmGH3p2nC2d_E_ovBe_SnxYbcCUOhJ5bO36bR6wN_zT3kleQYd2YlZYCi9XIA=s2560" alt="wandb" height="20">](https://wandb.ai/)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb4ajtYAg5K9ZqefLM05zisrtucSaB3Iaa2bDM-nGPnS2QkZiYVib3R8AFpeAkyxewxn3QIcI4plljwpp4mph2R2Qf1WMFtYaA=s1600-rw-v1" height="20.3">](https://langchain.com/)
 [![Hugging](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Mondhirch)
 
