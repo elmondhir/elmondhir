@@ -18,7 +18,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 #### Database Management (DBMS)
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://drive.google.com/drive-viewer/AKGpihbCex36Ncix6smnKDSL_5a3q72QYz9CmRryo25uCkmixK9Vot9IBLvasoh3HujXiYEWBrlE6_h7aoZZ3d29M4u_xGsjyKSuHg=s1600-rw-v1" alt="PostgreSQL" height="20"></a>
-[![My Skills](https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb, )](https://skillicons.dev)
 
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbwh9VW6anVPoCL8svqvsbjcKimgn42BADCB8aJWHnjrzRvOzZjP49KRMdnqFGx_HxYHQeBClx-XXr61nWSrqR18FxE-_qkLkY=s1600-rw-v1" alt="MongoDB" height="20"></a>
 <a href="https://neo4j.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbWYauzIAaYt8vo7C6W0QRgIArc2JdOvj4ZqqWPKh0xbceY95o-EA2G3FNp7KoDMs9NdJKXt6dmDtYFvKT64L_G_bW_K0NWBWo=s1600-rw-v1" alt="Neo4j" height="20"></a>
