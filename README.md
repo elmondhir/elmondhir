@@ -19,8 +19,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 #### Database Management (DBMS)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,snowflake)
-
-<a href="https://neo4j.com/" target="_blank"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbWYauzIAaYt8vo7C6W0QRgIArc2JdOvj4ZqqWPKh0xbceY95o-EA2G3FNp7KoDMs9NdJKXt6dmDtYFvKT64L_G_bW_K0NWBWo=s1600-rw-v1" alt="Neo4j" height="20"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/neo4j.svg" width="50"></a>
 
 
 #### Deep Learning & GenAI
