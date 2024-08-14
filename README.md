@@ -21,8 +21,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 
 #### Deep Learning & GenAI
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-white?logo=PyTorch)](https://pytorch.org/)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbpYsoEX2qfLGHkrlUxD8vpbszvv8sbV3ZPSVmGH3p2nC2d_E_ovBe_SnxYbcCUOhJ5bO36bR6wN_zT3kleQYd2YlZYCi9XIA=s2560" alt="wandb" height="20">](https://wandb.ai/)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY2T89MfYcKHFGWTM-eRNCelM3HZrqaW1t0C7LUCpHeAkCAen5-eHS-emLQYPC64oS83bGR-FRXcy2xLEuCFTZh4B8XASQ0dFM=s1600-rw-v1" height="20.3">](https://langchain.com/)
 [![Hugging](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Mondhirch)
