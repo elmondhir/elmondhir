@@ -14,9 +14,6 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 #### Programming languages:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,java)
 
-[![R](https://img.shields.io/badge/-R-276DC3?logo=R)](https://www.r-project.org/)
-<a href="https://www.java.com/"><img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYdL_LglzNBHJ3y6H_Cz0W-wS_VH62HXD7p-8tc7EIztrPDCx7QNAALWvPWvZcQJkDFc6GrYwLLcsIm9YJ7JIJdTC6a8UQyedI=s2560" alt="Java" height="20"></a>
-
 #### Database Management (DBMS)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,snowflake)
