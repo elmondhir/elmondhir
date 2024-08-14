@@ -21,7 +21,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 
 #### Deep Learning & GenAI
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,huggingface)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,huggingface,langchain)
 <a href="#"><img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg" width="50"></a>
 
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY2T89MfYcKHFGWTM-eRNCelM3HZrqaW1t0C7LUCpHeAkCAen5-eHS-emLQYPC64oS83bGR-FRXcy2xLEuCFTZh4B8XASQ0dFM=s1600-rw-v1" height="20.3">](https://langchain.com/)
