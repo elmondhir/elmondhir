@@ -25,7 +25,6 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 <a href="#"><img src="https://github.com/wandb/assets/blob/main/wandb-logo-yellow-dots-black-wb.svg" width="50"></a>
 
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY2T89MfYcKHFGWTM-eRNCelM3HZrqaW1t0C7LUCpHeAkCAen5-eHS-emLQYPC64oS83bGR-FRXcy2xLEuCFTZh4B8XASQ0dFM=s1600-rw-v1" height="20.3">](https://langchain.com/)
-[![Hugging](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Mondhirch)
 
 
 #### Miscellaneous:
