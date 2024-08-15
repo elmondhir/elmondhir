@@ -27,7 +27,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 
 #### Miscellaneous:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spark,tableau)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbYm-ItKOjhD0Kd7hxEIDsg2mKJfiN_PM7oLV10aCp5DuMWvtqZ0ljDo-H0sOaH9ZdU0V_ugSsr-q28Ik4rP18SIN8wNWmg7bA=s2560" alt="tableau" height="20">](https://public.tableau.com/app/profile/mondhirch/vizzes)
 [<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYsToiIFjHeq5ievTSwHWmLMmlP6lGTnC9uK-5Xdkvhglslb9ShnR9RKxN3_VbNMhie8PnaeRtwgDbkOMRoOofHTyeB638f6A=s2560" alt="aws" height="20">](https://aws.amazon.com/)
 [![Docker](https://lh3.googleusercontent.com/drive-viewer/AKGpihYgsYr3dEQDky7DSrAZJ3j045u5f9ahfjMT1ZCD_D3iXXJLo9evA6Vm6g-KdetKnuLXkIQBfTulL7lecqTNI_eAMfJOhat_hqo=s2560)](https://hub.docker.com/u/mondhirch2)
