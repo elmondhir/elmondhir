@@ -27,7 +27,7 @@ I'm a data science enthusiast 🚀 and coffee lover ☕. Currently embarking on 
 
 
 #### Miscellaneous:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spark,tableau,aws)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spark,tableau,aws,docker)
 [![Docker](https://lh3.googleusercontent.com/drive-viewer/AKGpihYgsYr3dEQDky7DSrAZJ3j045u5f9ahfjMT1ZCD_D3iXXJLo9evA6Vm6g-KdetKnuLXkIQBfTulL7lecqTNI_eAMfJOhat_hqo=s2560)](https://hub.docker.com/u/mondhirch2)
 
 
